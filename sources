@@ -1,0 +1,16 @@
+./src/Main.java
+./src/soccerManager/Game.java
+./src/soccerManager/Team.java
+./src/soccerManager/Goal.java
+./src/soccerManager/GameRunner.java
+./src/soccerManager/player/PlayerBase.java
+./src/soccerManager/player/Attacker.java
+./src/soccerManager/player/Defender.java
+./src/soccerManager/player/Goalkeeper.java
+./src/soccerManager/ObjectTracking/ObjectIdentity.java
+
+./src/test/TestSuite.java
+./src/test/soccerManager/player/PlayerBaseTest.java
+./src/test/soccerManager/player/AttackerTest.java
+./src/test/soccerManager/player/DefenderTest.java
+./src/test/soccerManager/player/GoalkeeperTest.java

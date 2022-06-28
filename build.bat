@@ -1,0 +1,1 @@
+javac -d "./out" @sources -cp lib/\*
